@@ -1,1 +1,1 @@
-export * from "./lib/hello"; //* Hello function
+export * from "./lib/rainify";

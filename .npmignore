@@ -3,3 +3,5 @@ src
 .env
 test
 documents
+node_modules
+package-lock.json
